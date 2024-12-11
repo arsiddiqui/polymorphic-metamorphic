@@ -27,13 +27,15 @@ Additional topics related to this type of advance attacks may include some of th
 * Tools: Wireshark, Procmon, YARA, IDA Pro. 
 
 ## Additional Resources
-* [baeldung](https://www.baeldung.com/cs/viruses-oligomorphic-polymorphic-metamorphic)
-* [video](https://www.youtube.com/watch?v=9FihI_YSOvA&ab_channel=BSides-Calgary)
-* [video](https://www.youtube.com/watch?v=SWU_DgjSwRU&ab_channel=Computerphile)
-* [github](https://github.com/hmzakhalid/Polymorphic-Virus-Python)
-* [video](https://www.youtube.com/watch?v=xAmgNqBjSY0)
-* [github](https://github.com/a0rtega/metame)
-* [github](https://github.com/amiroooamiran/Malware-with-python/tree/main)
-* [github](http://https://github.com/amiroooamiran/Malware-with-python/tree/main)
+* [baeldung - Oligomorphic vs. Polymorphic vs. Metamorphic Viruses ](https://www.baeldung.com/cs/viruses-oligomorphic-polymorphic-metamorphic)
+* [github - Polymorphic Virus in Python](https://github.com/hmzakhalid/Polymorphic-Virus-Python)
+* [github - Malware-with-python](https://github.com/amiroooamiran/Malware-with-python/tree/main)
+* [github - metame](https://github.com/a0rtega/metame)
+* [youtube - Understanding A Malware’s On-Demand Polymorphic Code](https://www.youtube.com/watch?v=9FihI_YSOvA&ab_channel=BSides-Calgary)
+* [youtube - Self Modifying Code - Computerphile](https://www.youtube.com/watch?v=SWU_DgjSwRU&ab_channel=Computerphile)
+* [youtube - Polymorphic Malware Scripting](https://www.youtube.com/watch?v=xAmgNqBjSY0)
+
+
+  
 
 
