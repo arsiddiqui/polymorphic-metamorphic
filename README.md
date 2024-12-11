@@ -14,9 +14,9 @@ On the other hand, metamorphic malware takes a different approach by rewriting i
 The cost of ignoring advanced malware techniques is staggering, with billions of dollars lost annually to data breaches, ransomware attacks, and other cyber threats. Beyond financial losses, these incidents can damage reputations, disrupt critical services, and compromise sensitive information. Understanding and combating polymorphic and metamorphic malware is not just a technical necessity but an economic and societal imperative in today’s interconnected world.
 
 ## Three Main Ideas
-1. Polymorphic malware, Changes its appearance (e.g., encryption keys or code structure) while keeping its functionality intact.Uses encryption and decryption routines that change on every iteration. Static signatures are rendered ineffective because the binary changes constantly.
-2. Metamorphic malware, Rewrites its own code without using encryption, making it structurally different in each instance.Applies techniques like code reordering, adding no-op instructions, or substituting equivalent code.Both static and dynamic detection methods struggle due to the lack of predictable patterns.
-3. Detection and Mitigation Techniques. Static analysis, Behavioral Analysis, Machine Learning Approaches
+1. Polymorphic malware, Changes its appearance (e.g., encryption keys or code structure) while keeping its functionality intact. Uses encryption and decryption routines that change on every iteration. Static signatures are rendered ineffective because the binary changes constantly.
+2. Metamorphic malware, Rewrites its own code without using encryption, making it structurally different in each instance.  Applies techniques like code reordering, adding no-op instructions, or substituting equivalent code. Both static and dynamic detection methods struggle due to the lack of predictable patterns.
+3. Detection and mitigation techniques include methods such as static analysis, behavioral analysis, and machine learning approaches
 ## Future Direction
 Leverage machine learning for anomaly detection, implement advanced obfuscation and anti-reverse-engineering techniques, and build layered security strategies integrating behavioral analysis, ML, and heuristics.
 
