@@ -1,1 +1,6 @@
-gAAAAABnWO_hY58woRjNpnYwaYYBXMz-13PSs6-LarUwaKkQw_sRxgqrTCIH4knMYDKJTWZ8yjUpRfi4Jhrd0PGiwAs6b1AIBPJ7NKbcu8pA_--gFBH4Jbk=
+print("************************************")
+print("All of you files have been encrypted!!!") 
+print("your computer is infected...")
+print("buy NobleCleaner from tiny.url")
+print("to remove malware and restore your files")
+print("************************************")
